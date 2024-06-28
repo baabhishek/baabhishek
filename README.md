@@ -28,3 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baabhishek&" alt="baabhishek" /></p>
 
+<p align="center">
+  <img width="1000" src="https://raw.githubusercontent.com/baabhishek/baabhishek/696ac8dae738d68bdc384fc27d848bd71ed5fda0/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
