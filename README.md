@@ -2,11 +2,6 @@
 
 <h3 align="center">💁‍♂️ A passionate to leveraging data to drive business decisions and strategies.</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="baabhishek" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baabhishek" alt="baabhishek" /></a> </p>
-
 - 🔭 I’m currently working on **an analytics project.**
 
 - 🌱 I’m currently learning **Snowflake and Some Data Engineering Concepts.**
@@ -70,6 +65,21 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baabhishek&show_icons=true&locale=en&layout=compact" alt="baabhishek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baabhishek&" alt="baabhishek" /></p>
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body style="background-color: #1a1a1a; color: #ffffff; font-family: Arial, sans-serif; text-align: center;">
+  <div class="trophy-container">
+    <h3>Trophy</h3>
+    <div class="trophy-link">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=baabhishek&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="GitHub Trophy" style="max-width: 100%; height: auto;">
+      </a>
+    </div>
+  </div>
+</body>
+</html>
 
 <p align="center">
   <img width="1000" src="https://raw.githubusercontent.com/baabhishek/baabhishek/696ac8dae738d68bdc384fc27d848bd71ed5fda0/github-contribution-grid-snake.svg" alt="snake"/>
