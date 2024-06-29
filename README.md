@@ -23,13 +23,42 @@
 <h3 align="left">Languages and Tools:</h3>
 <img align="right" height="200" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"  />
 
-| Anaconda | Jupyter | MongoDB | PostgreSQL | Python | SQLite | R |
-|----------|---------|---------|------------|--------|--------|---|
-| <img src="https://cdn.simpleicons.org/anaconda/44A833" title="Anaconda" alt="Anaconda" width="30" height="30"/> | <img src="https://cdn.simpleicons.org/jupyter/F37626" title="Jupyter" alt="Jupyter" width="30" height="30"/> | <img src="https://cdn.simpleicons.org/mongodb/47A248" title="MongoDB" alt="MongoDB" width="30" height="30"/> | <img src="https://cdn.simpleicons.org/postgresql/4169E1" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/> | <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="30" height="30"/> | <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="30" height="30"/> | <img src="https://cdn.simpleicons.org/r/276DC3" title="R" alt="R" width="30" height="30"/> |
-
-| Photoshop | MATLAB | MySQL | Pandas | VSCode | NumPy |
-|-----------|--------|-------|--------|--------|-------|
-| <img src="https://skillicons.dev/icons?i=photoshop" title="Photoshop" alt="Photoshop" width="30" height="30"/> | <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" alt="MATLAB" width="30" height="30"/> | <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="30" height="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="30" height="30"/> | <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" title="VSCode" alt="VSCode" width="30" height="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="30" height="30"/> |
+<table>
+  <tr>
+    <th>Anaconda</th>
+    <th>Jupyter</th>
+    <th>MongoDB</th>
+    <th>PostgreSQL</th>
+    <th>Python</th>
+    <th>SQLite</th>
+    <th>R</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/anaconda/44A833" title="Anaconda" alt="Anaconda" width="30" height="30"/></td>
+    <td><img src="https://cdn.simpleicons.org/jupyter/F37626" title="Jupyter" alt="Jupyter" width="30" height="30"/></td>
+    <td><img src="https://cdn.simpleicons.org/mongodb/47A248" title="MongoDB" alt="MongoDB" width="30" height="30"/></td>
+    <td><img src="https://cdn.simpleicons.org/postgresql/4169E1" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/></td>
+    <td><img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="30" height="30"/></td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="30" height="30"/></td>
+    <td><img src="https://cdn.simpleicons.org/r/276DC3" title="R" alt="R" width="30" height="30"/></td>
+  </tr>
+  <tr>
+    <th>Photoshop</th>
+    <th>MATLAB</th>
+    <th>MySQL</th>
+    <th>Pandas</th>
+    <th>VSCode</th>
+    <th>NumPy</th>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=photoshop" title="Photoshop" alt="Photoshop" width="30" height="30"/></td>
+    <td><img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" alt="MATLAB" width="30" height="30"/></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="30" height="30"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="30" height="30"/></td>
+    <td><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" title="VSCode" alt="VSCode" width="30" height="30"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="30" height="30"/></td>
+  </tr>
+</table>
 
 
 <h3 align="left">Most Used Vizualization Tools:</h3>
