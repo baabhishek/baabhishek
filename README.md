@@ -24,8 +24,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <img align="right" height="200" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"  />
 
-###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo"  />
   <img width="10" />
@@ -54,9 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="10" />
 </div>
-
-###
-
 <h3 align="left">Frequent Vizualization Tools:</h3>
 
 <div align="left">
