@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baabhishek" alt="baabhishek" /></a> </p>
 
-- 🔭 I’m currently working on **an analytics project**
+- 🔭 I’m currently working on **an analytics project.**
 
 - 🌱 I’m currently learning **Snowflake and Some Data Engineering Concepts.**
 
-- 📫 How to reach me **abhisheksenapati.blr@gmail.com**
+- 📫 Reach me: **[abhisheksenapati.blr@gmail.com]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,8 +28,6 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
   <img width="10" />
