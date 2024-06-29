@@ -1,7 +1,6 @@
-![logo](https://github.com/baabhishek/baabhishek/blob/main/AB2.png)
+![logo](https://github.com/baabhishek/baabhishek/blob/main/Intro_c_png-svg.png)
 
-<h1 align="center">Hi 👋, I'm Abhishek Senapati</h1>
-<h3 align="center">A passionate to leveraging data to drive business decisions and strategies.</h3>
+<h3 align="center">💁‍♂️ A passionate to leveraging data to drive business decisions and strategies.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="baabhishek" /> </p>
