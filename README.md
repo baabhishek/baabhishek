@@ -60,6 +60,19 @@
 
 ###
 
+<h3 align="left">Frequent Vizualization Tools:</h3>
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="30" alt=“PowerBI logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/tableau/#E97627" height="30" alt=“Tableau logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/FF9A00" height="30" alt=“Excel logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
+  <img width="10" />
+</div>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baabhishek&show_icons=true&locale=en&layout=compact" alt="baabhishek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baabhishek&" alt="baabhishek" /></p>
