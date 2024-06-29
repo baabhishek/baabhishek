@@ -23,46 +23,20 @@
 <h3 align="left">Languages and Tools:</h3>
 <img align="right" height="200" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"  />
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/r/276DC3" height="30" alt="r logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="10" />
-</div>
-<h3 align="left">Frequent Vizualization Tools:</h3>
+| Anaconda | Jupyter | MongoDB | PostgreSQL | Python | SQLite | R |
+|----------|---------|---------|------------|--------|--------|---|
+| <img src="https://cdn.simpleicons.org/anaconda/44A833" title="Anaconda" alt="Anaconda" width="30" height="30"/> | <img src="https://cdn.simpleicons.org/jupyter/F37626" title="Jupyter" alt="Jupyter" width="30" height="30"/> | <img src="https://cdn.simpleicons.org/mongodb/47A248" title="MongoDB" alt="MongoDB" width="30" height="30"/> | <img src="https://cdn.simpleicons.org/postgresql/4169E1" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/> | <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="30" height="30"/> | <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="30" height="30"/> | <img src="https://cdn.simpleicons.org/r/276DC3" title="R" alt="R" width="30" height="30"/> |
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="30" alt=“PowerBI logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/tableau/#E97627" height="30" alt=“Tableau logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/FF9A00" height="30" alt=“Excel logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
-  <img width="10" />
-</div>
+| Photoshop | MATLAB | MySQL | Pandas | VSCode | NumPy |
+|-----------|--------|-------|--------|--------|-------|
+| <img src="https://skillicons.dev/icons?i=photoshop" title="Photoshop" alt="Photoshop" width="30" height="30"/> | <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" alt="MATLAB" width="30" height="30"/> | <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="30" height="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="30" height="30"/> | <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" title="VSCode" alt="VSCode" width="30" height="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="30" height="30"/> |
+
+
+<h3 align="left">Most Used Vizualization Tools:</h3>
+
+| PowerBI | Tableau | Excel | Matplotlib | 
+|-------------|------------|---------|-----------------|
+| <img src="https://cdn.simpleicons.org/powerbi/F2C811" title=“PowerBI” alt="PowerBI" width="30" height="30"/> |<img src="https://cdn.simpleicons.org/tableau/#E97627" title=“Tableau” alt="Tableau" width="30" height="30"/> | <img src="https://cdn.simpleicons.org/microsoftexcel/FF9A00" title=“Excel” alt=“Excel” width="30" height="30"/> | <img src="https://skillicons.dev/icons?i=matlab" title=“Matplotlib” alt=“Matplotlib” width="30" height="30"/> | 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baabhishek&show_icons=true&locale=en&layout=compact" alt="baabhishek" /></p>
 
