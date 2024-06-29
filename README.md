@@ -4,7 +4,7 @@
 </p>
 
 
-<h3 align="center">💁‍♂️ A passionate to leveraging data to drive business decisions and strategies.</h3>
+<h3 align="center">💁‍♂️A passionate to leveraging data to drive business decisions and strategies.</h3>
 
 - 🔭 I’m currently working on **an analytics project.**
 
