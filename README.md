@@ -81,6 +81,19 @@
 </body>
 </html>
 
+<img align="right" height="160" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-772.gif"  />
+
+###
+
+<div align="left">
+  <a href="https://github.com/baabhishek/baabhishek/discussions/1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My%20Discussion%20Forum&logo=twitch&label=&color=9146FF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+</div>
+
+###
+
+
 <p align="center">
   <img width="1000" src="https://raw.githubusercontent.com/baabhishek/baabhishek/696ac8dae738d68bdc384fc27d848bd71ed5fda0/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
