@@ -1,4 +1,8 @@
 ![logo](https://github.com/baabhishek/baabhishek/blob/main/Intro_c_png-svg.png)
+<p align="left" style="color:blue;"> 
+  <img src="https://komarev.com/ghpvc/?username=baabhishek&label=Profile%20views&color=00ff00&style=flat" alt="baabhishek" /> 
+</p>
+
 
 <h3 align="center">💁‍♂️ A passionate to leveraging data to drive business decisions and strategies.</h3>
 
