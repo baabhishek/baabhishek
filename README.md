@@ -54,7 +54,7 @@
     <td><img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" alt="MATLAB" width="40" height="40"/></td>
     <td><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="30" height="30"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="35" height="35"/></td>
-    <td><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" title="VSCode" alt="VSCode" width="30" height="30"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="35" height="35"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="30" height="30"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Ggplot2_hex_logo.png" title="Ggplot" alt="Ggplot" width="40" height="40"/></td>
   </tr>
