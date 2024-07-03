@@ -66,7 +66,7 @@
 
 | PowerBI | Tableau | Excel | Matplotlib | 
 |-------------|------------|---------|-----------------|
-| <img src="https://cdn.simpleicons.org/powerbi/F2C811" title=“PowerBI” alt="PowerBI" width="30" height="30"/> |<img src="https://cdn.simpleicons.org/tableau/#E97627" title=“Tableau” alt="Tableau" width="30" height="30"/> | <img src="https://cdn.simpleicons.org/microsoftexcel/FF9A00" title=“Excel” alt=“Excel” width="30" height="30"/> | <img src="https://skillicons.dev/icons?i=matlab" title=“Matplotlib” alt=“Matplotlib” width="30" height="30"/> | 
+| <img src="https://www.coolblue.com/wp-content/uploads/2022/09/Microsoft-Power-BI-Symbol.png" title=“PowerBI” alt="PowerBI" width="60" height="35"/> |<img src="https://cdn.simpleicons.org/tableau/#E97627" title=“Tableau” alt="Tableau" width="30" height="30"/> | <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" title=“Excel” alt=“Excel” width="35" height="35"/> | <img src="https://skillicons.dev/icons?i=matlab" title=“Matplotlib” alt=“Matplotlib” width="30" height="30"/> | 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baabhishek&show_icons=true&locale=en&layout=compact" alt="baabhishek" /></p>
 
