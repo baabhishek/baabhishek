@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **an analytics project.**
 
-- 🌱 I’m currently learning **Snowflake and Some Data Engineering Concepts.**
+- 🌱 I’m currently learning **Snowflake  and Some Data Engineering Concepts.**
 
 - 📫 Reach me: **[abhisheksenapati.blr@gmail.com]**
 
