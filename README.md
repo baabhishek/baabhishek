@@ -64,9 +64,9 @@
 <h3 align="left">Most Used Vizualization Tools:</h3>
 <img align="right" height="160" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"  />
 
-| PowerBI | Tableau | Excel | Matplotlib | 
-|-------------|------------|---------|-----------------|
-| <img src="https://www.coolblue.com/wp-content/uploads/2022/09/Microsoft-Power-BI-Symbol.png" title=“PowerBI” alt="PowerBI" width="60" height="35"/> |<img src="https://cdn.simpleicons.org/tableau/#E97627" title=“Tableau” alt="Tableau" width="30" height="30"/> | <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" title=“Excel” alt=“Excel” width="35" height="35"/> | <img src="https://skillicons.dev/icons?i=matlab" title=“Matplotlib” alt=“Matplotlib” width="30" height="30"/> | 
+| PowerBI | Tableau | Excel | Matplotlib | Seaborn |
+|-------------|------------|---------|-----------------| -----------------|
+| <img src="https://www.coolblue.com/wp-content/uploads/2022/09/Microsoft-Power-BI-Symbol.png" title=“PowerBI” alt="PowerBI" width="60" height="35"/> |<img src="https://cdn.simpleicons.org/tableau/#E97627" title=“Tableau” alt="Tableau" width="30" height="30"/> | <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" title=“Excel” alt=“Excel” width="35" height="35"/> | <img src="https://skillicons.dev/icons?i=matlab" title=“Matplotlib” alt=“Matplotlib” width="30" height="30"/> | <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" title="Seaborn" alt="Seaborn" width="30" height="30"/> |
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baabhishek&show_icons=true&locale=en&layout=compact" alt="baabhishek" /></p>
 
