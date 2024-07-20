@@ -26,7 +26,7 @@
     <th>Anaconda</th>
     <th>Jupyter</th>
     <th>MongoDB</th>
-    <th>PostgreSQL</th>
+    <th>MSSQL</th>
     <th>Python</th>
     <th>SQLite</th>
     <th>R</th>
@@ -35,7 +35,7 @@
     <td><img src="https://cdn.simpleicons.org/anaconda/44A833" title="Anaconda" alt="Anaconda" width="30" height="30"/></td>
     <td><img src="https://cdn.simpleicons.org/jupyter/F37626" title="Jupyter" alt="Jupyter" width="30" height="30"/></td>
     <td><img src="https://cdn.simpleicons.org/mongodb/47A248" title="MongoDB" alt="MongoDB" width="30" height="30"/></td>
-    <td><img src="https://cdn.simpleicons.org/postgresql/4169E1" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/></td>
+    <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="MSSQL" alt="MSSQL" width="80" height="60"/></td>
     <td><img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="40" height="40"/></td>
     <td><img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="30" height="30"/></td>
     <td><img src="https://cdn.simpleicons.org/r/276DC3" title="R" alt="R" width="30" height="30"/></td>
